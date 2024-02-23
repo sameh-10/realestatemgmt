@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "RealEstateMgmt (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "RealEstateMgmt (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
